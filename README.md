@@ -1,7 +1,7 @@
 # Cool-Simple-Login-
 dont forgot 
 pip install pyfiglet==0.7 
-2 pip install termcolor 3 pip install colorama dont install error
+                2 pip install termcolor 3 pip install colorama
 
 notting
 Sub https://www.youtube.com/channel/UCWc64Y2W3F756sASe2wx-BA me
